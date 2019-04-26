@@ -1,6 +1,6 @@
 ## Selenium Python Docker
 
-An docker image for functional testing inspired by [Test Driven Development with Python](https://www.obeythetestinggoat.com) by Harry J.W Percival
+A docker image for functional testing inspired by [Test Driven Development with Python](https://www.obeythetestinggoat.com) by Harry J.W Percival
 
 
 ### Usage
